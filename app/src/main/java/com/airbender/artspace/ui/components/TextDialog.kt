@@ -1,4 +1,4 @@
-package com.airbender.artspace
+package com.airbender.artspace.ui.components
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.layout.Arrangement
@@ -35,6 +35,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.airbender.artspace.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
